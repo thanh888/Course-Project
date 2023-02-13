@@ -1,0 +1,28 @@
+* {
+    margin: 0 !important;
+    padding: 0 ;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration-line: none;
+}
+.banner {
+    border: 1px solid blue;
+    background: url(banner.jpg) center center no-repeat;
+    height: 700px;
+    padding: 20px;
+    /* background-size: cover; */
+
+}
+.nav-right{
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
+.start-now{
+    border-radius: 1px;
+    padding: 10px;
+    cursor: pointer;
+}
+
